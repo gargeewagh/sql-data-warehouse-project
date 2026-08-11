@@ -6,8 +6,6 @@ The **Gold Layer** represents the business-ready data model designed to support 
 
 ---
 
-## Gold Layer Tables
-
 ### 1. gold.dim_customers
 
 **Purpose**
