@@ -9,8 +9,7 @@ The **Gold Layer** represents the business-ready data model designed to support 
 ### 1. gold.dim_customers
 
 **Purpose**: Stores customer information enriched with demographic and geographic details for analytical reporting.
-
-#### Columns
+#### Columns: 
 
 | Column Name | Data Type | Description |
 |-------------|-----------|-------------|
@@ -30,8 +29,7 @@ The **Gold Layer** represents the business-ready data model designed to support 
 ### 2. gold.dim_products
 
 **Purpose**: Provides product information and attributes used for reporting and business analysis.
-
-#### Columns
+#### Columns: 
 
 | Column Name | Data Type | Description |
 |-------------|-----------|-------------|
@@ -52,7 +50,7 @@ The **Gold Layer** represents the business-ready data model designed to support 
 ### 3. gold.facts_sales
 
 **Purpose**: Stores transactional sales records used for business reporting and analytics.
-#### Columns
+#### Columns: 
 
 | Column Name | Data Type | Description |
 |-------------|-----------|-------------|
