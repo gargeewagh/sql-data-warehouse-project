@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Gold Layer** represents the business-ready data model designed to support reporting, analytics, and business intelligence. It consists of **dimension tables** and **fact tables** that organize data into a structured format for efficient analysis. :contentReference[oaicite:0]{index=0}
+The **Gold Layer** represents the business-ready data model designed to support reporting, analytics, and business intelligence. It consists of **dimension tables** and **fact tables** that organize data into a structured format for efficient analysis.
 
 ---
 
@@ -10,7 +10,7 @@ The **Gold Layer** represents the business-ready data model designed to support 
 
 **Purpose**
 
-Stores customer information enriched with demographic and geographic details for analytical reporting. :contentReference[oaicite:1]{index=1}
+Stores customer information enriched with demographic and geographic details for analytical reporting.
 
 #### Columns
 
@@ -33,7 +33,7 @@ Stores customer information enriched with demographic and geographic details for
 
 **Purpose**
 
-Provides product information and attributes used for reporting and business analysis. :contentReference[oaicite:2]{index=2}
+Provides product information and attributes used for reporting and business analysis.
 
 #### Columns
 
@@ -57,8 +57,7 @@ Provides product information and attributes used for reporting and business anal
 
 **Purpose**
 
-Stores transactional sales records used for business reporting and analytics. :contentReference[oaicite:3]{index=3}
-
+Stores transactional sales records used for business reporting and analytics.
 #### Columns
 
 | Column Name | Data Type | Description |
