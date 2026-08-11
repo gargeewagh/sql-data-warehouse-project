@@ -1,12 +1,12 @@
-# 📘 Data Catalog – Gold Layer
+# Data Catalog – Gold Layer
 
-## 📌 Overview
+## Overview
 
 The **Gold Layer** represents the business-ready data model designed to support reporting, analytics, and business intelligence. It consists of **dimension tables** and **fact tables** that organize data into a structured format for efficient analysis. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 📂 Gold Layer Tables
+## Gold Layer Tables
 
 ### 1. `gold.dim_customers`
 
@@ -76,7 +76,7 @@ Stores transactional sales records used for business reporting and analytics. :c
 
 ---
 
-## 🏗️ Gold Layer Architecture
+## Gold Layer Architecture
 
 The Gold Layer follows a **Star Schema** consisting of:
 
@@ -91,7 +91,7 @@ The dimension tables provide descriptive business information, while the fact ta
 
 ---
 
-## 🎯 Purpose of the Gold Layer
+## Purpose of the Gold Layer
 
 - Provides business-ready data for reporting.
 - Supports dashboards and analytical queries.
@@ -101,6 +101,6 @@ The dimension tables provide descriptive business information, while the fact ta
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 This repository includes the complete **Gold Layer Data Catalog** describing each table, column, data type, and business purpose. :contentReference[oaicite:4]{index=4}
