@@ -72,7 +72,7 @@ These insights provide stakeholders with key business metrics to support strateg
 
 ---
 
-## Important Links & Tools
+## Important Tools
 
 - **Datasets** – Project datasets provided as CSV files.
 - **SQL Server Express** – Lightweight server for hosting the SQL database.
