@@ -10,7 +10,7 @@ The data architecture follows the **Medallion Architecture**, consisting of **Br
 
 ### Architecture Diagram
 
-![High Level Architecture](docs/data_architecture.png)
+
 
 ### 1. Bronze Layer
 
@@ -35,7 +35,7 @@ This project involves:
 3. **Data Modeling** – Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting** – Creating SQL-based reports and dashboards for actionable insights.
 
-### Skills Demonstrated
+### This repository provides a practical demonstration of skills and capabilities relevant to professionals working in the following areas:
 
 - SQL Development
 - Data Architecture
@@ -103,25 +103,3 @@ These insights provide stakeholders with key business metrics to support strateg
 - **Notion** – Used for accessing the project template.
 
 ---
-
-## Repository Structure
-
-```text
-sql-data-warehouse-project/
-│
-├── datasets/
-│
-├── docs/
-│   ├── data_architecture.png
-│   ├── data_catalog.md
-│   └── data_warehouse_project.md
-│
-├── scripts/
-│   ├── bronze/
-│   ├── silver/
-│   └── gold/
-│
-├── tests/
-│
-├── LICENSE
-└── README.md
