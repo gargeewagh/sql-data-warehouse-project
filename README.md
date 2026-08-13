@@ -10,7 +10,7 @@ The data architecture follows the **Medallion Architecture**, consisting of **Br
 
 ### Architecture Diagram
 
-
+docs/data architecture.png
 
 ### 1. Bronze Layer
 
