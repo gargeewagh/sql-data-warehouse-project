@@ -60,8 +60,6 @@ Develop a modern data warehouse using **SQL Server** to consolidate sales data f
 
 - **Documentation:** Provide comprehensive documentation of the data model to support business stakeholders and analytics teams.
 
---
-
 ## Analytics Objectives
 
 Develop SQL-based analytics to deliver detailed insights into:
